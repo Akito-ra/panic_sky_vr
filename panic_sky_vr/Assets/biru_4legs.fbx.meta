@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 4f889295aea077c448f90f5c58b50b9f
+timeCreated: 1530844241
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube1
+    100004: pCube10
+    100006: pCube2
+    100008: pCube3
+    100010: pCube4
+    100012: pCube5
+    100014: pCube6
+    100016: pCube7
+    100018: pCube8
+    100020: pCube9
+    100022: pCylinder1
+    100024: pCylinder2
+    100026: pCylinder3
+    100028: pSphere1
+    100030: pSphere2
+    100032: pSphere3
+    100034: transform1
+    100036: transform10
+    100038: transform11
+    100040: transform12
+    100042: transform13
+    100044: transform14
+    100046: transform15
+    100048: transform2
+    100050: transform3
+    100052: transform4
+    100054: transform5
+    100056: transform6
+    100058: transform7
+    100060: transform8
+    100062: transform9
+    400000: //RootNode
+    400002: pCube1
+    400004: pCube10
+    400006: pCube2
+    400008: pCube3
+    400010: pCube4
+    400012: pCube5
+    400014: pCube6
+    400016: pCube7
+    400018: pCube8
+    400020: pCube9
+    400022: pCylinder1
+    400024: pCylinder2
+    400026: pCylinder3
+    400028: pSphere1
+    400030: pSphere2
+    400032: pSphere3
+    400034: transform1
+    400036: transform10
+    400038: transform11
+    400040: transform12
+    400042: transform13
+    400044: transform14
+    400046: transform15
+    400048: transform2
+    400050: transform3
+    400052: transform4
+    400054: transform5
+    400056: transform6
+    400058: transform7
+    400060: transform8
+    400062: transform9
+    2300000: pSphere3
+    3300000: pSphere3
+    4300000: pSphere3
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biru_dannwasitu
+    second: {fileID: 2100000, guid: 82a76e366ec7992419d3a40b871f6de1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biru_en
+    second: {fileID: 2100000, guid: b08d4f86184769d42a33f0da7423687c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biru_hasira
+    second: {fileID: 2100000, guid: f783ebc428ba20a40a080b54bf75a2c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biru_hasira_rennrakuro
+    second: {fileID: 2100000, guid: 43666b5356f04374bb9b6c23f4f9be20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biru_out
+    second: {fileID: 2100000, guid: f3eb4ef1a590bb242b428f812042ff02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biru_tama
+    second: {fileID: 2100000, guid: 1c2e042a626d26c498bc9c3c70c06470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biru_tama_rennrakuro
+    second: {fileID: 2100000, guid: 53e11a5e3cc301943a7d2c48b832b71c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eawalk
+    second: {fileID: 2100000, guid: bc5ed4b5a8a91fd48891f017626451d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: b8e05e2732edfdc4492265f2c63ba24f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: resutoran
+    second: {fileID: 2100000, guid: 61dd5d9cee181b94db18863ed53371c8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

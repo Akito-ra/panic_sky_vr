@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 71e9ef4463ee74247b78275dc0d4cc82
+timeCreated: 1530258530
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: highway_pPlane1
+    100002: highway_pPlane2
+    100004: highway_pPlane3
+    100006: highway_pPlane4
+    100008: pCube6
+    100010: polySurface5
+    100012: pPlane4
+    100014: pPlane9
+    100016: //RootNode
+    100018: polySurface1
+    100020: polySurface10
+    100022: polySurface2
+    100024: polySurface3
+    100026: polySurface4
+    100028: polySurface6
+    100030: polySurface7
+    100032: polySurface8
+    100034: polySurface9
+    100036: pPlane10
+    100038: pPlane11
+    100040: pPlane2
+    100042: pPlane3
+    100044: pPlane5
+    100046: pPlane6
+    100048: pPlane7
+    100050: pPlane8
+    100052: transform6
+    400000: highway_pPlane1
+    400002: highway_pPlane2
+    400004: highway_pPlane3
+    400006: highway_pPlane4
+    400008: pCube6
+    400010: polySurface5
+    400012: pPlane4
+    400014: pPlane9
+    400016: //RootNode
+    400018: polySurface1
+    400020: polySurface10
+    400022: polySurface2
+    400024: polySurface3
+    400026: polySurface4
+    400028: polySurface6
+    400030: polySurface7
+    400032: polySurface8
+    400034: polySurface9
+    400036: pPlane10
+    400038: pPlane11
+    400040: pPlane2
+    400042: pPlane3
+    400044: pPlane5
+    400046: pPlane6
+    400048: pPlane7
+    400050: pPlane8
+    400052: transform6
+    2300000: highway_pPlane1
+    2300002: highway_pPlane2
+    2300004: highway_pPlane3
+    2300006: highway_pPlane4
+    2300008: pCube6
+    2300010: polySurface5
+    2300012: pPlane4
+    2300014: pPlane9
+    2300016: polySurface1
+    2300018: polySurface10
+    2300020: polySurface2
+    2300022: polySurface3
+    2300024: polySurface4
+    2300026: polySurface6
+    2300028: polySurface7
+    2300030: polySurface8
+    2300032: polySurface9
+    2300034: pPlane10
+    2300036: pPlane11
+    2300038: pPlane3
+    2300040: pPlane5
+    2300042: pPlane6
+    2300044: pPlane7
+    2300046: pPlane8
+    3300000: highway_pPlane1
+    3300002: highway_pPlane2
+    3300004: highway_pPlane3
+    3300006: highway_pPlane4
+    3300008: pCube6
+    3300010: polySurface5
+    3300012: pPlane4
+    3300014: pPlane9
+    3300016: polySurface1
+    3300018: polySurface10
+    3300020: polySurface2
+    3300022: polySurface3
+    3300024: polySurface4
+    3300026: polySurface6
+    3300028: polySurface7
+    3300030: polySurface8
+    3300032: polySurface9
+    3300034: pPlane10
+    3300036: pPlane11
+    3300038: pPlane3
+    3300040: pPlane5
+    3300042: pPlane6
+    3300044: pPlane7
+    3300046: pPlane8
+    4300000: pCube6
+    4300002: highway_pPlane1
+    4300004: highway_pPlane2
+    4300006: highway_pPlane3
+    4300008: highway_pPlane4
+    4300010: pPlane4
+    4300012: pPlane9
+    4300014: polySurface5
+    4300016: polySurface1
+    4300018: polySurface2
+    4300020: polySurface3
+    4300022: polySurface4
+    4300024: polySurface6
+    4300026: polySurface7
+    4300028: polySurface8
+    4300030: polySurface9
+    4300032: polySurface10
+    4300034: pPlane3
+    4300036: pPlane5
+    4300038: pPlane6
+    4300040: pPlane7
+    4300042: pPlane8
+    4300044: pPlane10
+    4300046: pPlane11
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: highway_curve_highway_over_all
+    second: {fileID: 2100000, guid: 483d68030bb3bfc4394b280f959265af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: highway_curve_highway_over_road
+    second: {fileID: 2100000, guid: 6bb32643b793a644ca8a516a1844a46b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: highway_curve_highway_over_whiteLine
+    second: {fileID: 2100000, guid: 42050ebb498a4004480fcdb6f715c697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: bdf8dc10846da6441993fc982a60cdb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road_asufaruto
+    second: {fileID: 2100000, guid: 2d23eddb58d86e64a8b305b2c1a22130, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_liner
+    second: {fileID: 2100000, guid: 71a96d15f28ed7c4c92b3cdcf1103486, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
