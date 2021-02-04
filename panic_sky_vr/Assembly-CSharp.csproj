@@ -51,6 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\cutter\CutMesh.cs" />
+     <Compile Include="Assets\cutter\Cutter.cs" />
+     <Compile Include="Assets\cutter\Destory_Cutobj.cs" />
+     <Compile Include="Assets\cutter\LineBlade.cs" />
      <Compile Include="Assets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
      <Compile Include="Assets\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
      <Compile Include="Assets\EffectExamples\Shared\Scripts\GunAim.cs" />
